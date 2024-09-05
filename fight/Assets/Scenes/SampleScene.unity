@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 494308896}
   - component: {fileID: 494308895}
   - component: {fileID: 494308897}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: wt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -494,7 +494,7 @@ GameObject:
   - component: {fileID: 1912889785}
   - component: {fileID: 1912889784}
   - component: {fileID: 1912889786}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -662,6 +662,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 4
   jumpFroce: 4
+  checkGroundDistance: 1.4
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 8
 --- !u!4 &2079933822
 Transform:
   m_ObjectHideFlags: 0
