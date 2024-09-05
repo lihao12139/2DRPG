@@ -5,26 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< Updated upstream
-      ticks: 638611010290000000
-    m_Hash: 719750563
-=======
-      ticks: 638611003290000000
+      ticks: 638611023280000000
     m_Hash: 956736004
->>>>>>> Stashed changes
   m_LockFileStatus:
     m_FilePath: /Users/tal/2DRPG/fight/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< Updated upstream
-      ticks: 638611010290000000
-    m_Hash: 1786349801
-=======
-      ticks: 638611003290000000
+      ticks: 638611023280000000
     m_Hash: 2276378163
->>>>>>> Stashed changes
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -1048,13 +1038,8 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-<<<<<<< Updated upstream
-      datePublishedTicks: 637334461080000000
-      documentationUrl: 
-=======
       datePublishedTicks: 638548308080000000
       documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
->>>>>>> Stashed changes
       hasRepository: 1
       repository:
         type: git

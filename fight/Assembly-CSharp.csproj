@@ -675,12 +675,6 @@
     <Reference Include="Unity.PlasticSCM.Editor">
       <HintPath>/Users/tal/2DRPG/fight/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
-<<<<<<< Updated upstream
-=======
-    <Reference Include="Unity.Rider.Editor">
-      <HintPath>/Users/tal/2DRPG/fight/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
-    </Reference>
->>>>>>> Stashed changes
     <Reference Include="UnityEngine.UI">
       <HintPath>/Users/tal/2DRPG/fight/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
@@ -716,6 +710,9 @@
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Runtime">
       <HintPath>/Users/tal/2DRPG/fight/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Rider.Editor">
+      <HintPath>/Users/tal/2DRPG/fight/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

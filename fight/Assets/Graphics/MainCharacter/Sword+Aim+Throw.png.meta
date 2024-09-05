@@ -299,8 +299,305 @@ TextureImporter:
   - first:
       213: 787512443710130017
     second: Warrior_Sheet-Effect_98
+  - first:
+      213: -1043185752538180006
+    second: Sword+Aim+Throw_0
+  - first:
+      213: 2067644908843983533
+    second: Sword+Aim+Throw_1
+  - first:
+      213: 7590999294202667030
+    second: Sword+Aim+Throw_2
+  - first:
+      213: 8527986312702740444
+    second: Sword+Aim+Throw_3
+  - first:
+      213: 5272756733800794221
+    second: Sword+Aim+Throw_4
+  - first:
+      213: 8606258264359006065
+    second: Sword+Aim+Throw_5
+  - first:
+      213: -7591138670498341185
+    second: Sword+Aim+Throw_6
+  - first:
+      213: -56516996848351462
+    second: Sword+Aim+Throw_7
+  - first:
+      213: 7056161526128314744
+    second: Sword+Aim+Throw_8
+  - first:
+      213: 2010861974755702699
+    second: Sword+Aim+Throw_9
+  - first:
+      213: -4020276562469281800
+    second: Sword+Aim+Throw_10
+  - first:
+      213: 15750491668902768
+    second: Sword+Aim+Throw_11
+  - first:
+      213: 5001157278176265203
+    second: Sword+Aim+Throw_12
+  - first:
+      213: 9176375802152173985
+    second: Sword+Aim+Throw_13
+  - first:
+      213: -1096744005351176286
+    second: Sword+Aim+Throw_14
+  - first:
+      213: 3169019864529504677
+    second: Sword+Aim+Throw_15
+  - first:
+      213: -6887518283389672677
+    second: Sword+Aim+Throw_16
+  - first:
+      213: -5338635144973390019
+    second: Sword+Aim+Throw_17
+  - first:
+      213: -2824236105185882426
+    second: Sword+Aim+Throw_18
+  - first:
+      213: 706104783582587586
+    second: Sword+Aim+Throw_19
+  - first:
+      213: 9073471620393458824
+    second: Sword+Aim+Throw_20
+  - first:
+      213: 5998731540348126691
+    second: Sword+Aim+Throw_21
+  - first:
+      213: -4601209581753172311
+    second: Sword+Aim+Throw_22
+  - first:
+      213: 5550083349883531548
+    second: Sword+Aim+Throw_23
+  - first:
+      213: 5716421594646664680
+    second: Sword+Aim+Throw_24
+  - first:
+      213: 2134257714766060903
+    second: Sword+Aim+Throw_25
+  - first:
+      213: 1162742368764104846
+    second: Sword+Aim+Throw_26
+  - first:
+      213: 660006821479840187
+    second: Sword+Aim+Throw_27
+  - first:
+      213: -3198153519468989262
+    second: Sword+Aim+Throw_28
+  - first:
+      213: -1042571060572154949
+    second: Sword+Aim+Throw_29
+  - first:
+      213: 4886499310614048960
+    second: Sword+Aim+Throw_30
+  - first:
+      213: -4566181601642579218
+    second: Sword+Aim+Throw_31
+  - first:
+      213: -804784135598015204
+    second: Sword+Aim+Throw_32
+  - first:
+      213: 2495950114455566774
+    second: Sword+Aim+Throw_33
+  - first:
+      213: -8301009961722562415
+    second: Sword+Aim+Throw_34
+  - first:
+      213: -6709437159540820049
+    second: Sword+Aim+Throw_35
+  - first:
+      213: 1211260890858905835
+    second: Sword+Aim+Throw_36
+  - first:
+      213: 7004456949767696148
+    second: Sword+Aim+Throw_37
+  - first:
+      213: 516717061145458124
+    second: Sword+Aim+Throw_38
+  - first:
+      213: -5123015502976708065
+    second: Sword+Aim+Throw_39
+  - first:
+      213: -5114204915611081899
+    second: Sword+Aim+Throw_40
+  - first:
+      213: 7910850223602397333
+    second: Sword+Aim+Throw_41
+  - first:
+      213: 1273575747410174198
+    second: Sword+Aim+Throw_42
+  - first:
+      213: -7438009145087728981
+    second: Sword+Aim+Throw_43
+  - first:
+      213: 5345959764181896123
+    second: Sword+Aim+Throw_44
+  - first:
+      213: 4153238092552541225
+    second: Sword+Aim+Throw_45
+  - first:
+      213: -235544652991184669
+    second: Sword+Aim+Throw_46
+  - first:
+      213: 7624286700007534216
+    second: Sword+Aim+Throw_47
+  - first:
+      213: 8024057509670829157
+    second: Sword+Aim+Throw_48
+  - first:
+      213: -8434044055357059115
+    second: Sword+Aim+Throw_49
+  - first:
+      213: -6139108367739749184
+    second: Sword+Aim+Throw_50
+  - first:
+      213: -6793516222217892508
+    second: Sword+Aim+Throw_51
+  - first:
+      213: 6377488304902849911
+    second: Sword+Aim+Throw_52
+  - first:
+      213: -2700707367311229805
+    second: Sword+Aim+Throw_53
+  - first:
+      213: -4702708345062851003
+    second: Sword+Aim+Throw_54
+  - first:
+      213: -5958583459918666571
+    second: Sword+Aim+Throw_55
+  - first:
+      213: -6480862558241068727
+    second: Sword+Aim+Throw_56
+  - first:
+      213: -5505567893099167993
+    second: Sword+Aim+Throw_57
+  - first:
+      213: 2772313455738913260
+    second: Sword+Aim+Throw_58
+  - first:
+      213: 5134518759176796353
+    second: Sword+Aim+Throw_59
+  - first:
+      213: 7835634201436230340
+    second: Sword+Aim+Throw_60
+  - first:
+      213: -365696204970822973
+    second: Sword+Aim+Throw_61
+  - first:
+      213: 3563187084957570582
+    second: Sword+Aim+Throw_62
+  - first:
+      213: 7360888719867769473
+    second: Sword+Aim+Throw_63
+  - first:
+      213: -4553673919765653647
+    second: Sword+Aim+Throw_64
+  - first:
+      213: 5013628449776094285
+    second: Sword+Aim+Throw_65
+  - first:
+      213: -5113887525253698465
+    second: Sword+Aim+Throw_66
+  - first:
+      213: -3401768623306017263
+    second: Sword+Aim+Throw_67
+  - first:
+      213: 2553131158983803211
+    second: Sword+Aim+Throw_68
+  - first:
+      213: -1152178867194539511
+    second: Sword+Aim+Throw_69
+  - first:
+      213: 6528205828574319811
+    second: Sword+Aim+Throw_70
+  - first:
+      213: -7818472276637650621
+    second: Sword+Aim+Throw_71
+  - first:
+      213: -3586721591787293002
+    second: Sword+Aim+Throw_72
+  - first:
+      213: 6863225791973832062
+    second: Sword+Aim+Throw_73
+  - first:
+      213: -1791190664320310512
+    second: Sword+Aim+Throw_74
+  - first:
+      213: -4284390853128654002
+    second: Sword+Aim+Throw_75
+  - first:
+      213: -3380915952414484535
+    second: Sword+Aim+Throw_76
+  - first:
+      213: 6811990727999110335
+    second: Sword+Aim+Throw_77
+  - first:
+      213: -3456773653186019212
+    second: Sword+Aim+Throw_78
+  - first:
+      213: -4615519779006512200
+    second: Sword+Aim+Throw_79
+  - first:
+      213: 3753861892723502762
+    second: Sword+Aim+Throw_80
+  - first:
+      213: 7005106765265585818
+    second: Sword+Aim+Throw_81
+  - first:
+      213: 3576102746104256271
+    second: Sword+Aim+Throw_82
+  - first:
+      213: -4393349118205665904
+    second: Sword+Aim+Throw_83
+  - first:
+      213: 4504944841305172296
+    second: Sword+Aim+Throw_84
+  - first:
+      213: -2526079728611479855
+    second: Sword+Aim+Throw_85
+  - first:
+      213: -615788824742652832
+    second: Sword+Aim+Throw_86
+  - first:
+      213: 8100461996642474817
+    second: Sword+Aim+Throw_87
+  - first:
+      213: -6052558396352461477
+    second: Sword+Aim+Throw_88
+  - first:
+      213: -1806925094362244681
+    second: Sword+Aim+Throw_89
+  - first:
+      213: -609503857648847482
+    second: Sword+Aim+Throw_90
+  - first:
+      213: -1020203746764202818
+    second: Sword+Aim+Throw_91
+  - first:
+      213: 5742106002902838836
+    second: Sword+Aim+Throw_92
+  - first:
+      213: -3528225952348518368
+    second: Sword+Aim+Throw_93
+  - first:
+      213: 5909140339503110881
+    second: Sword+Aim+Throw_94
+  - first:
+      213: -3045381956792808050
+    second: Sword+Aim+Throw_95
+  - first:
+      213: -7312262989424541694
+    second: Sword+Aim+Throw_96
+  - first:
+      213: 2516682545461892924
+    second: Sword+Aim+Throw_97
+  - first:
+      213: 1912336606012369360
+    second: Sword+Aim+Throw_98
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -321,7 +618,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -360,7 +656,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -379,7 +674,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -403,7 +698,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -422,131 +717,2096 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Warrior_Sheet-Effect_14
+      name: Sword+Aim+Throw_0
       rect:
         serializedVersion: 2
-        x: 138
-        y: 616
-        width: 69
+        x: 0
+        y: 704
+        width: 64
         height: 44
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2cd1023a08e36a290800000000000000
-      internalID: -7879541775824577086
+      spriteID: a569639c51cd581f0800000000000000
+      internalID: -1043185752538180006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_Sheet-Effect_15
+      name: Sword+Aim+Throw_1
       rect:
         serializedVersion: 2
-        x: 207
-        y: 616
-        width: 69
+        x: 64
+        y: 704
+        width: 64
         height: 44
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb9d2597326b696a0800000000000000
-      internalID: -6442761953431332421
+      spriteID: da26a49f610c1bc10800000000000000
+      internalID: 2067644908843983533
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_Sheet-Effect_16
+      name: Sword+Aim+Throw_2
       rect:
         serializedVersion: 2
-        x: 276
-        y: 616
-        width: 69
+        x: 128
+        y: 704
+        width: 64
         height: 44
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7f424508e75d6390800000000000000
-      internalID: -7823500323640422531
+      spriteID: 610e035a3a5a85960800000000000000
+      internalID: 7590999294202667030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_Sheet-Effect_17
+      name: Sword+Aim+Throw_3
       rect:
         serializedVersion: 2
-        x: 345
-        y: 616
-        width: 69
+        x: 192
+        y: 704
+        width: 64
         height: 44
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e6b084927a7b6d20800000000000000
-      internalID: 3272844186751121127
+      spriteID: cd74a024e5e795670800000000000000
+      internalID: 8527986312702740444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_Sheet-Effect_21
+      name: Sword+Aim+Throw_4
       rect:
         serializedVersion: 2
-        x: 207
+        x: 256
+        y: 704
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68ce3920589c2940800000000000000
+      internalID: 5272756733800794221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f63642b429f6770800000000000000
+      internalID: 8606258264359006065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe1738499bd6a690800000000000000
+      internalID: -7591138670498341185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 660
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17051f3716373ff0800000000000000
+      internalID: -56516996848351462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 660
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87908aad5858ce160800000000000000
+      internalID: 7056161526128314744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 660
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba777a1ef4408eb10800000000000000
+      internalID: 2010861974755702699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 660
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff903b44cb1538c0800000000000000
+      internalID: -4020276562469281800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 660
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07376fc1df4f73000800000000000000
+      internalID: 15750491668902768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f34e871c0ea76540800000000000000
+      internalID: 5001157278176265203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 616
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a145cc6c29095f70800000000000000
+      internalID: 9176375802152173985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 616
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7018f432597c0f0800000000000000
+      internalID: -1096744005351176286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 616
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9007fc6ce9afb20800000000000000
+      internalID: 3169019864529504677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 616
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13ec86ec9e9a60a0800000000000000
+      internalID: -6887518283389672677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 616
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fe176fe9b59e5b0800000000000000
+      internalID: -5338635144973390019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_18
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 572
-        width: 69
+        width: 64
         height: 44
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3dd1845f242839a0800000000000000
-      internalID: -6253208296904073923
+      spriteID: 6ce009cc93c4ec8d0800000000000000
+      internalID: -2824236105185882426
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_Sheet-Effect_22
+      name: Sword+Aim+Throw_19
       rect:
         serializedVersion: 2
-        x: 276
+        x: 64
         y: 572
-        width: 69
+        width: 64
         height: 44
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0a648cc7a0c4baf0800000000000000
-      internalID: -381468241496348146
+      spriteID: 2cae4af3f869cc900800000000000000
+      internalID: 706104783582587586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 572
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cd32d8d527bed70800000000000000
+      internalID: 9073471620393458824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 572
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5c165ad86cf3350800000000000000
+      internalID: 5998731540348126691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 572
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae7a7e73483520c0800000000000000
+      internalID: -4601209581753172311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 572
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c113e9fa66bd50d40800000000000000
+      internalID: 5550083349883531548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e55947472fc45f40800000000000000
+      internalID: 5716421594646664680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 528
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d94c375186e9d10800000000000000
+      internalID: 2134257714766060903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 528
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e801b7f1604e22010800000000000000
+      internalID: 1162742368764104846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9f3af05b0d82900800000000000000
+      internalID: 660006821479840187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 528
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4b2ee8150ed93d0800000000000000
+      internalID: -3198153519468989262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 528
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb39e79e42b0881f0800000000000000
+      internalID: -1042571060572154949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c07754bb3550d340800000000000000
+      internalID: 4886499310614048960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 484
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea7b26a60aa1a0c0800000000000000
+      internalID: -4566181601642579218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 484
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d7fc4b715d4d4f0800000000000000
+      internalID: -804784135598015204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 484
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9383da76563a220800000000000000
+      internalID: 2495950114455566774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 484
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1983c82ab63eccc80800000000000000
+      internalID: -8301009961722562415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 484
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa773c6937a43e2a0800000000000000
+      internalID: -6709437159540820049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0e7f9dc534fc010800000000000000
+      internalID: 1211260890858905835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 440
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f6b6f0c74d43160800000000000000
+      internalID: 7004456949767696148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 440
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc575feed6fbb2700800000000000000
+      internalID: 516717061145458124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 440
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12114efa8467e8b0800000000000000
+      internalID: -5123015502976708065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 440
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553e178b9b1b609b0800000000000000
+      internalID: -5114204915611081899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 440
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590f3296d5cf8cd60800000000000000
+      internalID: 7910850223602397333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0afe20566aca110800000000000000
+      internalID: 1273575747410174198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 396
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba260fe3712e6c890800000000000000
+      internalID: -7438009145087728981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 396
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbc797d41aa03a40800000000000000
+      internalID: 5345959764181896123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 396
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92417365a0443a930800000000000000
+      internalID: 4153238092552541225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 396
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0c7b5d26d2bbcf0800000000000000
+      internalID: -235544652991184669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 396
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e2fa3cb58eec960800000000000000
+      internalID: 7624286700007534216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c3c31bacd2b5f60800000000000000
+      internalID: 8024057509670829157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df827cfd9144fa80800000000000000
+      internalID: -8434044055357059115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc7e3747718dcaa0800000000000000
+      internalID: -6139108367739749184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d49de4df498b1a0800000000000000
+      internalID: -6793516222217892508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77541fce2d3618850800000000000000
+      internalID: 6377488304902849911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c322955f8258ad0800000000000000
+      internalID: -2700707367311229805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e734a1daf9cbeb0800000000000000
+      internalID: -4702708345062851003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 308
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4a703c9ebde4da0800000000000000
+      internalID: -5958583459918666571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 308
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94969e127d95f06a0800000000000000
+      internalID: -6480862558241068727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 308
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f3705cb2b4893b0800000000000000
+      internalID: -5505567893099167993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 308
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce18a5f466c397620800000000000000
+      internalID: 2772313455738913260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 308
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8ff4d8b99714740800000000000000
+      internalID: 5134518759176796353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2128e8ac3cdbc60800000000000000
+      internalID: 7835634201436230340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 264
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c271073d39cceaf0800000000000000
+      internalID: -365696204970822973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 264
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616d72376cbf27130800000000000000
+      internalID: 3563187084957570582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 264
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182f5e28a41272660800000000000000
+      internalID: 7360888719867769473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 264
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177586542b91ec0c0800000000000000
+      internalID: -4553673919765653647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 264
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c42b0038cf39540800000000000000
+      internalID: 5013628449776094285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ca3fbe362d709b0800000000000000
+      internalID: -5113887525253698465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 220
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11676cfd57d7ac0d0800000000000000
+      internalID: -3401768623306017263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 220
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b410634134b8e6320800000000000000
+      internalID: 2553131158983803211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 220
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902582fbc63a200f0800000000000000
+      internalID: -1152178867194539511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 220
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c49ec8fc98d89a50800000000000000
+      internalID: 6528205828574319811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 220
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341f5c073e43f7390800000000000000
+      internalID: -7818472276637650621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b67b4d27b7693ec0800000000000000
+      internalID: -3586721591787293002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7536efae731f3f50800000000000000
+      internalID: 6863225791973832062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0132138b4996427e0800000000000000
+      internalID: -1791190664320310512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4375500839ca84c0800000000000000
+      internalID: -4284390853128654002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c712e8aad29411d0800000000000000
+      internalID: -3380915952414484535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc34a3c97d098e50800000000000000
+      internalID: 6811990727999110335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4700bec5da21700d0800000000000000
+      internalID: -3456773653186019212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 132
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3078e073162ffb0800000000000000
+      internalID: -4615519779006512200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 132
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaee8aba085681430800000000000000
+      internalID: 3753861892723502762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 132
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9647550d73273160800000000000000
+      internalID: 7005106765265585818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 132
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07d7d5208ed0a130800000000000000
+      internalID: 3576102746104256271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 132
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d53130140b703c0800000000000000
+      internalID: -4393349118205665904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84929b60777c48e30800000000000000
+      internalID: 4504944841305172296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de2ccddedf81fcd0800000000000000
+      internalID: -2526079728611479855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 88
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0641f8493574477f0800000000000000
+      internalID: -615788824742652832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 88
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b1d62944f9a6070800000000000000
+      internalID: 8100461996642474817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 88
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b558a13d43ef00ca0800000000000000
+      internalID: -6052558396352461477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_89
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 88
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b99cce33338ce6e0800000000000000
+      internalID: -1806925094362244681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6853c93887b9a87f0800000000000000
+      internalID: -609503857648847482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 44
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcd89bf81287d1f0800000000000000
+      internalID: -1020203746764202818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 44
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e69a59cfe00bf40800000000000000
+      internalID: 5742106002902838836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 44
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028c3fe8039390fc0800000000000000
+      internalID: -3528225952348518368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_94
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 44
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea9300b4db710250800000000000000
+      internalID: 5909140339503110881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_95
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 44
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d0bf3de31acb5d0800000000000000
+      internalID: -3045381956792808050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2004d1b9d8f958a90800000000000000
+      internalID: -7312262989424541694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c379eaee07d0de220800000000000000
+      internalID: 2516682545461892924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword+Aim+Throw_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9e75cd20cf98a10800000000000000
+      internalID: 1912336606012369360
       vertices: []
       indices: 
       edges: []
@@ -561,106 +2821,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Warrior_Sheet-Effect_19: -6211648682532063752
-      Warrior_Sheet-Effect_3: -7105675749794256429
-      Warrior_Sheet-Effect_88: -3380132617870049673
-      Warrior_Sheet-Effect_17: 3272844186751121127
-      Warrior_Sheet-Effect_40: -6130774247032492815
-      Warrior_Sheet-Effect_35: 8740081516789230483
-      Warrior_Sheet-Effect_79: -7939720171757009327
-      Warrior_Sheet-Effect_23: -2164224423321271568
-      Warrior_Sheet-Effect_42: -8105224185696963899
-      Warrior_Sheet-Effect_58: -1406694122392401829
-      Warrior_Sheet-Effect_86: -5742998253431553049
-      Warrior_Sheet-Effect_56: 7739141928638578783
-      Warrior_Sheet-Effect_46: 3675700599212663255
-      Warrior_Sheet-Effect_47: -6199907869733816761
-      Warrior_Sheet-Effect_41: -7784280053648753441
-      Warrior_Sheet-Effect_55: 8562263981820643917
-      Warrior_Sheet-Effect_12: -7195227389596926799
-      Warrior_Sheet-Effect_9: -1755831512471263806
-      Warrior_Sheet-Effect_20: 4804923502247703499
-      Warrior_Sheet-Effect_11: -6179113146597259875
-      Warrior_Sheet-Effect_91: -2106872485169043283
-      Warrior_Sheet-Effect_73: -5219189033981844993
-      Warrior_Sheet-Effect_62: -5110843521143403644
-      Warrior_Sheet-Effect_93: -8491356359149837760
-      Warrior_Sheet-Effect_53: 8858915403469927737
-      Warrior_Sheet-Effect_28: -3728085103066422436
-      Warrior_Sheet-Effect_75: -5008098951225157325
-      Warrior_Sheet-Effect_64: -8669300221853394086
-      Warrior_Sheet-Effect_71: -1175057978942713942
-      Warrior_Sheet-Effect_44: 3578844115799939244
-      Warrior_Sheet-Effect_97: -7685447711378399537
-      Warrior_Sheet-Effect_0: -3318188226485093758
-      Warrior_Sheet-Effect_27: 1619122817114066791
-      Warrior_Sheet-Effect_10: -7157502479376193569
-      Warrior_Sheet-Effect_37: 8207571220096118977
-      Warrior_Sheet-Effect_45: -8346973252730123848
-      Warrior_Sheet-Effect_34: 4273360486593703493
-      Warrior_Sheet-Effect_89: -6656010539272679822
-      Warrior_Sheet-Effect_96: -2493374651010981141
-      Warrior_Sheet-Effect_83: -5853263684127566195
-      Warrior_Sheet-Effect_57: -1765949524758486658
-      Warrior_Sheet-Effect_87: 1550331120443448429
-      Warrior_Sheet-Effect_2: -4486162353907066099
-      Warrior_Sheet-Effect_14: -7879541775824577086
-      Warrior_Sheet-Effect_29: 5309330118571133426
-      Warrior_Sheet-Effect_59: 3914160388638673933
-      Warrior_Sheet-Effect_18: 8629003983396144442
-      Warrior_Sheet-Effect_43: 565109345717033213
-      Warrior_Sheet-Effect_51: -8179423753346160949
-      Warrior_Sheet-Effect_33: 8758733799639075308
-      Warrior_Sheet-Effect_77: -848416997838638187
-      Warrior_Sheet-Effect_52: -1605837713619785204
-      Warrior_Sheet-Effect_49: 4778756267546337206
-      Warrior_Sheet-Effect_22: -381468241496348146
-      Warrior_Sheet-Effect_48: -9068822172998705990
-      Warrior_Sheet-Effect_67: 1786230212584650817
-      Warrior_Sheet-Effect_31: -3793288683446833867
-      Warrior_Sheet-Effect_1: -1938354968663525734
-      Warrior_Sheet-Effect_81: -5551026827497223419
-      Warrior_Sheet-Effect_90: -6761883565659206456
-      Warrior_Sheet-Effect_24: 7378919880078719499
-      Warrior_Sheet-Effect_68: 2896272659956946786
-      Warrior_Sheet-Effect_74: 8048201136183370311
-      Warrior_Sheet-Effect_85: -7703501868747715773
-      Warrior_Sheet-Effect_63: -8626763743991069669
-      Warrior_Sheet-Effect_5: 8053934741035486310
-      Warrior_Sheet-Effect_13: -7083850147136336687
-      Warrior_Sheet-Effect_36: 4245071895355107723
-      Warrior_Sheet-Effect_32: 7809884292531708377
-      Warrior_Sheet-Effect_65: -8606690382453196554
-      Warrior_Sheet-Effect_30: 2138419889203400846
-      Warrior_Sheet-Effect_61: -5647377392427310024
-      Warrior_Sheet-Effect_72: 8396084745013482390
-      Warrior_Sheet-Effect_98: 787512443710130017
-      Warrior_Sheet-Effect_76: 3500951761227251082
-      Warrior_Sheet-Effect_82: -2437237654950474820
-      Warrior_Sheet-Effect_15: -6442761953431332421
-      Warrior_Sheet-Effect_25: -50406204238961237
-      Warrior_Sheet-Effect_50: -5417263232604538632
-      Warrior_Sheet-Effect_38: 7910466545735013580
-      Warrior_Sheet-Effect_26: 2833012263988642564
-      Warrior_Sheet-Effect_8: 7890055846987212836
-      Warrior_Sheet-Effect_6: 4312510042007804440
-      Warrior_Sheet-Effect_39: -4360246032673291897
-      Warrior_Sheet-Effect_66: -1003838945947052602
-      Warrior_Sheet-Effect_78: -1594377132886445991
-      Warrior_Sheet-Effect_7: -3637831218265681369
-      Warrior_Sheet-Effect_16: -7823500323640422531
-      Warrior_Sheet-Effect_21: -6253208296904073923
-      Warrior_Sheet-Effect_92: -5691269341329648135
-      Warrior_Sheet-Effect_95: -7781806043594523482
-      Warrior_Sheet-Effect_60: 709901728315876072
-      Warrior_Sheet-Effect_69: 2127461698910248042
-      Warrior_Sheet-Effect_54: 5335032761891035287
-      Warrior_Sheet-Effect_70: 8874842850510428824
-      Warrior_Sheet-Effect_94: -4479905760731915366
-      Warrior_Sheet-Effect_84: 806391716420303315
-      Warrior_Sheet-Effect_4: 932576740597027765
-      Warrior_Sheet-Effect_80: 4278741268874708782
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
