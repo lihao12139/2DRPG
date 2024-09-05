@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Starting compiling UnityEngine.TestRunner.dll
 /Applications/Unity/Hub/Editor/2020.3.25f1c1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0433ee47fe1c94f6d933fc09ecc79586
 # Starting compiling UnityEngine.UI.dll
@@ -66,3 +67,9 @@
 /Applications/Unity/Hub/Editor/2020.3.25f1c1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-59ccc8a6be90b4d3caa5e76e0da7a46d
 # Starting compiling Assembly-CSharp.dll
 /Applications/Unity/Hub/Editor/2020.3.25f1c1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-474a49816cb994c10b0f9ff81a63c07d
+=======
+# Starting compiling Unity.Rider.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.25f1c1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-62edb9ba91c2944bd9375ccf46e3af2f
+# Starting compiling Assembly-CSharp.dll
+/Applications/Unity/Hub/Editor/2020.3.25f1c1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-67c84279d41004095879670624ab28bc
+>>>>>>> Stashed changes
