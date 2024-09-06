@@ -200,7 +200,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 494308894}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.11, y: -0.2855, z: 0}
+  m_LocalPosition: {x: 10.22, y: -0.25, z: 0}
   m_LocalScale: {x: 3.1539032, y: 2.1095796, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -285,7 +285,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 8.02
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -392,6 +392,7 @@ GameObject:
   - component: {fileID: 1719701547}
   - component: {fileID: 1719701548}
   - component: {fileID: 1719701549}
+  - component: {fileID: 1719701550}
   m_Layer: 0
   m_Name: Animator
   m_TagString: Untagged
@@ -483,6 +484,18 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1719701550
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1719701546}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1577700f56cbf4b29bf19199757c2638, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1912889783
 GameObject:
   m_ObjectHideFlags: 0
@@ -560,8 +573,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1912889783}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.2595, y: -1.83, z: 0}
-  m_LocalScale: {x: 8.9197, y: 1, z: 1}
+  m_LocalPosition: {x: 2.6886, y: -1.83, z: 0}
+  m_LocalScale: {x: 33.261032, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
@@ -662,15 +675,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 1
   jumpForce: 10
-  dashSpeed: 10
-  dashCd: 2
-  dashDuration: 0.3
-  dashTime: 0
-  isGrounded: 1
   checkGroundDistance: 1.4
   groundLayer:
     serializedVersion: 2
     m_Bits: 8
+  dashDuration: 0.3
+  dashSpeed: 10
+  dashCd: 2
+  comboTime: 0.5
 --- !u!4 &2079933822
 Transform:
   m_ObjectHideFlags: 0
