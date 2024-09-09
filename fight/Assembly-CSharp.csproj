@@ -43,6 +43,11 @@
   <ItemGroup>
     <Compile Include="Assets/Scripts/PlayControl/PlayControl.cs" />
     <Compile Include="Assets/Scripts/PlayControl/PlayerAnimEvents.cs" />
+    <Compile Include="Assets/Scripts/PlayerState/Player.cs" />
+    <Compile Include="Assets/Scripts/PlayerState/PlayerState.cs" />
+    <Compile Include="Assets/Scripts/PlayerState/PlayerStateMachine.cs" />
+    <Compile Include="Assets/Scripts/PlayerState/PlayerIdleState.cs" />
+    <Compile Include="Assets/Scripts/PlayerState/PlayerMoveState.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2020.3.25f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

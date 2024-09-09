@@ -7,7 +7,7 @@ public class PlayControl : MonoBehaviour
 
     private Animator anim;
 
-    [Header("目前是在场景里面配置信息，后期有时间了换一个表，读表拉取信息")]
+   //"目前是在场景里面配置信息，后期有时间了换一个表，读表拉取信息"
     
     //移动info
     [Header("人物移动速度")] [SerializeField] private float moveSpeed;
