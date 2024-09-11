@@ -41,13 +41,14 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/PlayerState/PlayerStateMachine.cs" />
     <Compile Include="Assets/Scripts/PlayControl/PlayControl.cs" />
     <Compile Include="Assets/Scripts/PlayControl/PlayerAnimEvents.cs" />
     <Compile Include="Assets/Scripts/PlayerState/Player.cs" />
-    <Compile Include="Assets/Scripts/PlayerState/PlayerState.cs" />
-    <Compile Include="Assets/Scripts/PlayerState/PlayerStateMachine.cs" />
-    <Compile Include="Assets/Scripts/PlayerState/PlayerIdleState.cs" />
     <Compile Include="Assets/Scripts/PlayerState/PlayerMoveState.cs" />
+    <Compile Include="Assets/Scripts/PlayerState/PlayerState.cs" />
+    <Compile Include="Assets/Scripts/PlayerState/PlayerIdleState.cs" />
+    <Compile Include="Assets/Scripts/PlayerState/PlayerGroundedState.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2020.3.25f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -681,6 +682,9 @@
     <Reference Include="Unity.PlasticSCM.Editor">
       <HintPath>/Users/tal/2DRPG/fight/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Rider.Editor">
+      <HintPath>/Users/tal/2DRPG/fight/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>/Users/tal/2DRPG/fight/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
@@ -716,9 +720,6 @@
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Runtime">
       <HintPath>/Users/tal/2DRPG/fight/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Rider.Editor">
-      <HintPath>/Users/tal/2DRPG/fight/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
