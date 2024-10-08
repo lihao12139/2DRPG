@@ -41,14 +41,18 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/PlayerState/State/PlayerAirStates.cs" />
+    <Compile Include="Assets/Scripts/PlayerState/State/PlayerJumpState.cs" />
     <Compile Include="Assets/Scripts/PlayerState/PlayerStateMachine.cs" />
     <Compile Include="Assets/Scripts/PlayControl/PlayControl.cs" />
     <Compile Include="Assets/Scripts/PlayControl/PlayerAnimEvents.cs" />
     <Compile Include="Assets/Scripts/PlayerState/Player.cs" />
-    <Compile Include="Assets/Scripts/PlayerState/PlayerMoveState.cs" />
+    <Compile Include="Assets/Scripts/PlayerState/State/PlayerMoveState.cs" />
+    <Compile Include="Assets/Scripts/PlayerState/State/PlayerGroundedState.cs" />
     <Compile Include="Assets/Scripts/PlayerState/PlayerState.cs" />
-    <Compile Include="Assets/Scripts/PlayerState/PlayerIdleState.cs" />
-    <Compile Include="Assets/Scripts/PlayerState/PlayerGroundedState.cs" />
+    <Compile Include="Assets/Scripts/PlayerState/State/PlayerDashState.cs" />
+    <Compile Include="Assets/Scripts/PlayerState/State/PlayerIdleState.cs" />
+    <Compile Include="Assets/Scripts/ConfigData/PlayerInfo.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2020.3.25f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
