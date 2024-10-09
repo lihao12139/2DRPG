@@ -17,7 +17,8 @@ public static class PlayerInfo
     private static readonly float _dashDuration = 0.4f;
     //冲刺速度x
     private static readonly float _dashSpeed = 24f;
-    
+    //空中移动速度
+    private static readonly float _airSpeed = 12f;
     
     public static  float moveSpeed
     {
@@ -38,5 +39,10 @@ public static class PlayerInfo
     public static float dashSpeed
     {
         get { return _dashSpeed; }
+    }
+
+    public static float airSpeed
+    {
+        get { return _airSpeed; }
     }
 }

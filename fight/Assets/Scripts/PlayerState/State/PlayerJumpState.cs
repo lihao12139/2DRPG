@@ -20,12 +20,15 @@ public class PlayerJumpState : PlayerState
     public override void Update()
     {
         base.Update();
-        player.SetVelocity(xInput * moveSpeed, rb.velocity.y);
+       
         if (rb.velocity.y < 0)
         {
             stateMachine.ChangeState(player.airState);
         }
-       
+        if (xInput != 0)
+        {
+            player.SetVelocity(airSpeed * xInput,rb.velocity.y);
+        }
     }
 
     public override void Exit()

@@ -21,7 +21,9 @@ public class Player : MonoBehaviour
     
     public PlayerAirStates airState { get; private set; }
     
-    public PlayerDashState DashState { get; private set; }
+    public PlayerDashState dashState { get; private set; }
+    
+    public PlayerWallSliderState wallSliderState { get; private set; }
     
     #endregion
 
@@ -45,7 +47,8 @@ public class Player : MonoBehaviour
         moveState = new PlayerMoveState(this, stateMachine, "Move");
         jumpState = new PlayerJumpState(this, stateMachine, "Jump");
         airState = new PlayerAirStates(this, stateMachine, "Jump");
-        DashState = new PlayerDashState(this, stateMachine, "Dash");
+        dashState = new PlayerDashState(this, stateMachine, "Dash");
+        wallSliderState = new PlayerWallSliderState(this, stateMachine, "WallSlider");
     }
 
     private void Start()
@@ -80,7 +83,11 @@ public class Player : MonoBehaviour
     {
         return Physics2D.Raycast(groundCheck.position, Vector2.down, groundCheckDistance, whatIsGround);
     }
-    
+
+    public bool IsWall()
+    {
+        return Physics2D.Raycast(wallCheck.position, Vector2.right * facingDirection, wallCheckDistance, whatIsGround);
+    }
     
     /// <summary>
     /// 画一条辅助线来检测距离
@@ -99,7 +106,7 @@ public class Player : MonoBehaviour
     }
 
     public void FilpController(float _xVelocity)
-    {s
+    {
         if (_xVelocity > 0 && !facingRight)
         {
             Filp();
@@ -121,7 +128,7 @@ public class Player : MonoBehaviour
             dashDirection = Input.GetAxisRaw("Horizontal");
             if (dashDirection == 0)
                 dashDirection = facingDirection;
-            stateMachine.ChangeState(DashState);
+            stateMachine.ChangeState(dashState);
             dashCd = PlayerInfo.dashCd;
         }
     }

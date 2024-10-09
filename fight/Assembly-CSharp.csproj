@@ -53,6 +53,7 @@
     <Compile Include="Assets/Scripts/PlayerState/State/PlayerDashState.cs" />
     <Compile Include="Assets/Scripts/PlayerState/State/PlayerIdleState.cs" />
     <Compile Include="Assets/Scripts/ConfigData/PlayerInfo.cs" />
+    <Compile Include="Assets/Scripts/PlayerState/State/PlayerWallSliderState.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2020.3.25f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

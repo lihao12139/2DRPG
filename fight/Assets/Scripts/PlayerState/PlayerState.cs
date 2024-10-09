@@ -25,6 +25,8 @@ public class PlayerState
     public float dashDuration = PlayerInfo.dashDuration;
     //冲刺cd
     public float dashCd = PlayerInfo.dashCd;
+    //空中移动速度
+    public float airSpeed = PlayerInfo.airSpeed;
     
     public PlayerState(Player _player, PlayerStateMachine _stateMachine, string _animBoolName)
     {

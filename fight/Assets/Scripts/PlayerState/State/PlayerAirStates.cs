@@ -22,6 +22,11 @@ public class PlayerAirStates : PlayerState
         {
             stateMachine.ChangeState(player.idleState);
         }
+
+        if (xInput != 0)
+        {
+            player.SetVelocity(airSpeed * xInput,rb.velocity.y);
+        }
     }
 
     public override void Exit()
